@@ -35,7 +35,7 @@ git checkout -b addtool
 * fare il commit della modifica
 * push del commit alla repository
 ```shell
-git push origin addtool
+git push main addtool
 ```
 * andare sulla repository e cliccare il bottone ![pull request](https://eliteionic.com/static/9e76fd9ee216c2b87bdc9d4e14004171/cc6fe/git-recent-changes.png)
 * sottoscrivere la pull request
