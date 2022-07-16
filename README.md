@@ -10,6 +10,14 @@ questa repository nasce con lo scopo di raggruppare tutti gli strumenti fatti da
 * tutti gli elementi di questa repository devono essere in ordine alfabetico
 
 ## Progetti
+
+## G
+### Google of Engineering
+Link : https://github.com/SAPPHIR3-ROS3/GoogleOfEngineering/releases
+### descrizione
+questo piccolo in script fatto con python indicizza tutte le video lezioni del canale del DIAG cosicché basti cercare un argomento (a prescindere dalla materia) per trovare video e minutaggio del video in cui viene spiegato
+#generale #organizzazione #indicizzazione #google
+
 ##
 
 ## Istruzioni (Pull Request)
