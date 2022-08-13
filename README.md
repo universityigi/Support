@@ -45,9 +45,5 @@ git checkout -b addtool
   #hashtag1 #hashtag2 ...
   ```
 * fare il commit della modifica
-* push del commit alla repository
-```shell
-git push origin addtool
-```
-* andare sulla repository e cliccare il bottone ![pull request](https://eliteionic.com/static/9e76fd9ee216c2b87bdc9d4e14004171/cc6fe/git-recent-changes.png)
+* andare sulla repository e cliccare il bottone ![pull request](https://imgur.com/mHe1sKw.png)
 * sottoscrivere la pull request
