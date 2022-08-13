@@ -15,6 +15,7 @@ questa repository nasce con lo scopo di raggruppare tutti gli strumenti fatti da
 Link : https://mamiglia.github.io/meravigliosi-automi/
 #### descrizione:
 Sito web per la creazione, valutazione, esecuzione di Automi a Stati Finiti.
+#fondamentidiinformatica1 #test #automi #sitoweb #webapp
 ## G
 ### Google of Engineering
 Link : https://github.com/SAPPHIR3-ROS3/GoogleOfEngineering/releases
