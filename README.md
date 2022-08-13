@@ -13,6 +13,7 @@ questa repository nasce con lo scopo di raggruppare tutti gli strumenti fatti da
 ## M
 ### Meravigliosi Automi
 Link : https://mamiglia.github.io/meravigliosi-automi/
+#### descrizione:
 Sito web per la creazione, valutazione, esecuzione di Automi a Stati Finiti.
 ## G
 ### Google of Engineering
