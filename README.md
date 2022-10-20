@@ -18,7 +18,7 @@ Sito web per la creazione, valutazione, esecuzione di Automi a Stati Finiti.
 #fondamentidiinformatica1 #test #automi #sitoweb #webapp
 ## G
 ### Google of Engineering
-Link : https://github.com/SAPPHIR3-ROS3/GoogleOfEngineering/releases
+Link : https://github.com/SAPPHIR3-ROS3/GoogleOfEngineering
 ### descrizione
 questo piccolo in script fatto con python indicizza tutte le video lezioni del canale del DIAG cosicché basti cercare un argomento (a prescindere dalla materia) per trovare video e minutaggio del video in cui viene spiegato  
 #generale #organizzazione #indicizzazione #google
